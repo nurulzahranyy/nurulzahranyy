@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Nurul Qalbi Zahrani</h1>
-<h3 align="center">Information Systems Developer & UI/UX Enthusiast</h3>
+<h3 align="center">Software Developer & UI/UX Enthusiast</h3>
 
 ---
 
