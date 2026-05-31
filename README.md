@@ -3,7 +3,7 @@
 
 ---
 
-I'm a continuous learner who loves turning complex logical problems into clean, functional, and aesthetic digital experiences. As an **INTJ**, i like planning things! i see every project as a new puzzle to solve and optimize.
+I'm a continuous learner who loves turning real-life and complex logical problems into clean, functional, and aesthetic digital experiences. As an **INTJ**, i like planning things! i see every project as a new puzzle to solve and optimize.
 
 ---
 
